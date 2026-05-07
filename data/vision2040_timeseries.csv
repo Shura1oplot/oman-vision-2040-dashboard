@@ -1,0 +1,66 @@
+indicator_id,year,value,source,is_estimated
+real_gdp_growth,2020,-3.2,Annual Report 2022-2023,FALSE
+real_gdp_growth,2021,3.1,Annual Report 2022-2023,FALSE
+real_gdp_growth,2022,4.3,Annual Report 2022-2023,FALSE
+real_gdp_growth,2023,1.3,Annual Report 2023-2024,FALSE
+real_gdp_growth,2024,1.7,Annual Report 2024-2025,FALSE
+inflation_cpi,2020,-0.9,Annual Report 2022-2023,FALSE
+inflation_cpi,2021,1.5,Annual Report 2022-2023,FALSE
+inflation_cpi,2022,2.5,Annual Report 2024-2025 benchmark,FALSE
+inflation_cpi,2023,0.9,Interpolated from trend,TRUE
+inflation_cpi,2024,0.6,Annual Report 2024-2025,FALSE
+fiscal_balance_gdp,2020,-15.5,Annual Report 2023-2024,FALSE
+fiscal_balance_gdp,2021,-3.7,Annual Report 2023-2024,FALSE
+fiscal_balance_gdp,2022,2.7,Annual Report 2023-2024,FALSE
+fiscal_balance_gdp,2023,2.2,Annual Report 2023-2024,FALSE
+fiscal_balance_gdp,2024,1.3,Annual Report 2024-2025,FALSE
+non_oil_share_gdp,2020,78.2,Annual Report 2022-2023,FALSE
+non_oil_share_gdp,2021,70.2,Annual Report 2022-2023,FALSE
+non_oil_share_gdp,2022,70.6,Annual Report 2024-2025 benchmark,FALSE
+non_oil_share_gdp,2023,71.4,Interpolated,TRUE
+non_oil_share_gdp,2024,72.5,Annual Report 2024-2025,FALSE
+gross_debt_gdp,2020,67.7,Annual Report 2022-2023,FALSE
+gross_debt_gdp,2021,61.0,Annual Report 2022-2023,FALSE
+gross_debt_gdp,2022,41.9,Annual Report 2024-2025 benchmark,FALSE
+gross_debt_gdp,2023,37.6,Annual Report 2024-2025,FALSE
+gross_debt_gdp,2024,35.4,Annual Report 2024-2025,FALSE
+public_expenditure_gdp,2020,44.3,Annual Report 2022-2023,FALSE
+public_expenditure_gdp,2021,36.6,Annual Report 2022-2023,FALSE
+public_expenditure_gdp,2022,31.6,Annual Report 2024-2025 benchmark,FALSE
+public_expenditure_gdp,2023,28.5,Annual Report 2024-2025 derived,FALSE
+public_expenditure_gdp,2024,29.5,Annual Report 2024-2025,FALSE
+non_oil_revenue_gdp,2020,9.27,Annual Report 2022-2023,FALSE
+non_oil_revenue_gdp,2021,8.71,Annual Report 2022-2023,FALSE
+non_oil_revenue_gdp,2022,7.80,Annual Report 2024-2025 benchmark,FALSE
+non_oil_revenue_gdp,2023,8.66,Annual Report 2024-2025,FALSE
+non_oil_revenue_gdp,2024,8.53,Annual Report 2024-2025,FALSE
+fdi_net_inflow_gdp,2020,2.9,Annual Report 2022-2023,FALSE
+fdi_net_inflow_gdp,2021,10.3,Annual Report 2022-2023,FALSE
+fdi_net_inflow_gdp,2022,6.5,Annual Report 2024-2025 benchmark,FALSE
+fdi_net_inflow_gdp,2023,9.4,Interpolated from period average,TRUE
+fdi_net_inflow_gdp,2024,11.1,Annual Report 2024-2025,FALSE
+private_investment_gdp,2020,15.7,Annual Report 2022-2023,FALSE
+private_investment_gdp,2021,13.0,Annual Report 2022-2023,FALSE
+private_investment_gdp,2022,15.7,Annual Report 2024-2025 benchmark,FALSE
+private_investment_gdp,2023,16.3,Interpolated,TRUE
+private_investment_gdp,2024,17.0,Annual Report 2024-2025,FALSE
+skilled_labour_private_pct,2020,56.8,Annual Report 2022-2023,FALSE
+skilled_labour_private_pct,2021,58.0,Annual Report 2022-2023,FALSE
+skilled_labour_private_pct,2022,56.7,Annual Report 2024-2025 benchmark,FALSE
+skilled_labour_private_pct,2023,56.2,Annual Report 2024-2025,FALSE
+skilled_labour_private_pct,2024,56.6,Annual Report 2024-2025,FALSE
+omanis_share_pvt_jobs,2021,12.4,Annual Report 2022-2023,FALSE
+omanis_share_pvt_jobs,2022,9.7,Annual Report 2024-2025 benchmark,FALSE
+omanis_share_pvt_jobs,2023,10.5,Annual Report 2024-2025,FALSE
+omanis_share_pvt_jobs,2024,11.8,Annual Report 2024-2025,FALSE
+labour_productivity_growth,2020,-3.7,Annual Report 2022-2023,FALSE
+labour_productivity_growth,2021,3.4,Annual Report 2022-2023,FALSE
+labour_productivity_growth,2022,-6.1,Annual Report 2024-2025 benchmark,FALSE
+labour_productivity_growth,2023,0.0,Interpolated,TRUE
+labour_productivity_growth,2024,2.4,Annual Report 2024-2025,FALSE
+real_gdp_per_capita_omr,2021,7416,Annual Report 2024-2025 benchmark,FALSE
+real_gdp_per_capita_omr,2022,7550,Interpolated,TRUE
+real_gdp_per_capita_omr,2023,7680,Interpolated,TRUE
+real_gdp_per_capita_omr,2024,7819,Annual Report 2024-2025,FALSE
+youth_development_index,2020,0.769,Annual Report 2024-2025 benchmark,FALSE
+youth_development_index,2023,0.803,Annual Report 2024-2025,FALSE
