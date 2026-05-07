@@ -1,0 +1,15 @@
+indicator_id,pillar,priority,indicator_name,unit,direction,target_type,target_2030,target_2040,target_2030_max,target_2040_max,baseline_year,baseline_value,source_notes
+real_gdp_growth,Economy and Development,Economic Leadership and Management,Real GDP Growth,percent,higher_better,value,5.0,5.0,,,2017,3.6,Average 2000-2017 baseline; constant prices
+inflation_cpi,Economy and Development,Economic Leadership and Management,Inflation Rate (CPI),percent,target_band,band,2.0,2.0,3.0,3.0,2017,1.6,Healthy band 2-3 percent
+fiscal_balance_gdp,Economy and Development,Economic Leadership and Management,Fiscal Balance to GDP,percent,higher_better,floor,-3.0,-3.0,,,2017,-11.7,Deficit not to exceed -3 percent
+non_oil_share_gdp,Economy and Development,Economic Diversification and Fiscal Sustainability,Non-Oil Share of GDP,percent,higher_better,value,83.9,91.6,,,2017,61.0,Vision document baseline
+gross_debt_gdp,Economy and Development,Economic Diversification and Fiscal Sustainability,Gross Debt to GDP,percent,lower_better,ceiling,60.0,60.0,,,2017,44.0,Cap not to exceed 60 percent
+public_expenditure_gdp,Economy and Development,Economic Diversification and Fiscal Sustainability,Total Public Expenditure to GDP,percent,lower_better,value,34.0,25.0,,,2017,45.1,
+non_oil_revenue_gdp,Economy and Development,Economic Diversification and Fiscal Sustainability,Non-Oil Revenue to GDP,percent,higher_better,value,15.0,18.0,,,2017,9.5,
+fdi_net_inflow_gdp,Economy and Development,Private Sector Investment and International Cooperation,FDI Net Inflow to GDP,percent,higher_better,value,7.0,10.0,,,2017,4.12,
+private_investment_gdp,Economy and Development,Private Sector Investment and International Cooperation,Gross Private Investment to GDP,percent,higher_better,value,25.0,22.0,,,2017,22.8,Methodology revised in 2022
+skilled_labour_private_pct,Economy and Development,Labour Market and Employment,Skilled Labour Share in Private Sector,percent,higher_better,value,81.0,83.0,,,2017,57.9,
+omanis_share_pvt_jobs,Economy and Development,Labour Market and Employment,Omanis Share of Private Sector Jobs,percent,higher_better,value,35.0,40.0,,,2016,11.6,
+labour_productivity_growth,Economy and Development,Labour Market and Employment,Labour Productivity Growth Rate,percent,target_band,band,1.0,2.0,2.0,3.0,2017,-1.2,Range 1-2 percent by 2030 then 2-3 percent by 2040
+real_gdp_per_capita_omr,People and Society,Well-being and Social Protection,Real GDP per Capita (OMR constant prices),OMR,higher_better,value,8770.0,11900.0,,,2017,6264.0,2030 target +40 percent baseline; 2040 target +90 percent baseline
+youth_development_index,People and Society,Well-being and Social Protection,Youth Development Index Value,score 0-1,higher_better,value,0.717,0.737,,,2016,0.611,
